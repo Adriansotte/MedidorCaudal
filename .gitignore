@@ -1,0 +1,88 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core
+bin/
+obj/
+*.log
+*.lock.json
+*.ide.config
+*.ide.cache
+
+# Dependency directories
+node_modules/
+wwwroot/lib/
+
+# Build directories
+out/
+artifacts/
+
+# User-specific files
+*.swp
+*.temp
+*.tmp
+*.bak
+*.backup
+*.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.mdf
+*.ldf
+*.ndf
+
+# Package Managers
+package-lock.json
+yarn.lock
+
+# Publish output
+*.publish.xml
+
+# Generated files
+Generated_Code/
+
+# Secrets and configuration
+appsettings*.json
+secrets.json
+
+# Tooling
+*.lock
+*.ncache
+*.dbmdl
+*.pyc
+*.pid
+*.tlog
+*.log
+*.vspscc
+*.vssscc
+
+# Resharper
+_ReSharper/
+*.DotSettings.user
+
+# Rider
+.idea/
+.idea_modules/
+*.iml
+
+# Azure DevOps
+# Note: Comment the next line if you want to check in your Azure Pipelines build logs
+pipelines/*
+
+# SonarQube
+.sonarqube/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db

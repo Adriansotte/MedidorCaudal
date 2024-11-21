@@ -1,25 +1,35 @@
+using ProyectoMedidor.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddRazorPages();
+// Configurar MVC
+builder.Services.AddControllersWithViews();
+
+// Configurar HttpClient y la inyección de dependencias para la interfaz y la implementación
+builder.Services.AddHttpClient<IApiService, ApiService>();
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
-    app.UseExceptionHandler("/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
+    app.UseExceptionHandler("/Home/Error");
+    app.UseHsts(); // Forzar HTTPS en entornos de producción
 }
 
-app.UseHttpsRedirection();
+// Middleware para servir archivos estáticos como CSS, JS, imágenes, etc.
 app.UseStaticFiles();
 
 app.UseRouting();
 
+// Middleware para la autorización (si decides implementarla en el futuro)
 app.UseAuthorization();
 
-app.MapRazorPages();
+// Configura la ruta predeterminada para el patrón MVC
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
+// Inicia la aplicación
 app.Run();

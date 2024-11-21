@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoMedidor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a213a3597b3c0996efece6041392d3e03b65fb19")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoMedidor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoMedidor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

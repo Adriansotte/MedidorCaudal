@@ -58,14 +58,21 @@ namespace ProyectoMedidor.Services
             }
         }
 
-        public async Task<object> GetCounterData(string token, int type, long startTime, long endTime)
+        public async Task<CounterDataResponse> GetCounterData(string token, int type, long startTime, long endTime)
         {
             _httpClient.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
 
-            var response = await _httpClient.GetAsync($"https://apicore.spherag.com/AtlasElement/Monitoring/92/{type}/{startTime}/{endTime}");
+            // Construcción de la URL con los parámetros especificados
+            string url = $"https://apicore.spherag.com/AtlasElement/Monitoring/92/{type}/{startTime}/{endTime}";
+
+            var response = await _httpClient.GetAsync(url);
+
             if (response.IsSuccessStatusCode)
             {
-                return await response.Content.ReadFromJsonAsync<object>();
+                var responseData = await response.Content.ReadFromJsonAsync<CounterDataResponse>();
+
+                // Aquí podrías procesar la respuesta para extraer los datos que necesitas
+                return responseData;
             }
 
             return null;

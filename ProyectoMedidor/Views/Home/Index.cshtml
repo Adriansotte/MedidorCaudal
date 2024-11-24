@@ -1,10 +1,87 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model ProyectoMedidor.Models.CounterDataViewModel
+
 @{
-    ViewData["Title"] = "Inicio";
+    ViewData["Title"] = "Gráfica del Contador";
 }
 
-<h1>Bienvenido a la Prueba Técnica</h1>
-<p>Esta es la vista principal de tu aplicación.</p>
+<h1>@ViewData["Title"]</h1>
 
+<!-- Incluir Chart.js desde CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<div class="container">
+    <!-- Aquí vamos a mostrar las gráficas -->
+    <h3>Gráfica de Caudal (Flow Rate)</h3>
+    <canvas id="flowRateChart" width="400" height="200"></canvas>
+
+    <h3>Gráfica Acumulada (Accumulated Flow)</h3>
+    <canvas id="accumulatedFlowChart" width="400" height="200"></canvas>
+</div>
+
+<script>
+    // Función para convertir los datos del modelo en un formato compatible con Chart.js
+    function generateChartData(data) {
+        return {
+            labels: data.map(d => d.Time), // Las etiquetas del eje X son los tiempos
+            datasets: [{
+                label: 'Valor',
+                data: data.map(d => d.Value), // Los valores de la gráfica
+                borderColor: 'rgba(75, 192, 192, 1)', // Color de la línea
+                borderWidth: 1,
+                fill: false
+            }]
+        };
+    }
+
+    // Crear la gráfica de Flow Rate (Caudal)
+    var flowRateData = @Html.Raw(Json.Serialize(Model.FlowRateData)); // Pasa los datos de FlowRateData desde el modelo
+    var flowRateChartCtx = document.getElementById('flowRateChart').getContext('2d');
+    var flowRateChart = new Chart(flowRateChartCtx, {
+        type: 'line', // Tipo de gráfica (línea)
+        data: generateChartData(flowRateData),
+        options: {
+            responsive: true,
+            scales: {
+                x: {
+                    type: 'category', // El eje X será categórico (tiempos)
+                    title: {
+                        display: true,
+                        text: 'Tiempo'
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Valor'
+                    }
+                }
+            }
+        }
+    });
+
+    // Crear la gráfica de Accumulated Flow (Acumulado)
+    var accumulatedFlowData = @Html.Raw(Json.Serialize(Model.AccumulatedFlowData)); // Pasa los datos de AccumulatedFlowData desde el modelo
+    var accumulatedFlowChartCtx = document.getElementById('accumulatedFlowChart').getContext('2d');
+    var accumulatedFlowChart = new Chart(accumulatedFlowChartCtx, {
+        type: 'line', // Tipo de gráfica (línea)
+        data: generateChartData(accumulatedFlowData),
+        options: {
+            responsive: true,
+            scales: {
+                x: {
+                    type: 'category', // El eje X será categórico (tiempos)
+                    title: {
+                        display: true,
+                        text: 'Tiempo'
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Valor'
+                    }
+                }
+            }
+        }
+    });
+</script>

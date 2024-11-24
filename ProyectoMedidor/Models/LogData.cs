@@ -1,10 +1,10 @@
 ﻿namespace ProyectoMedidor.Models
 {
-    public class LogEntry
+    public class LogData
     {
-        public long DateTs { get; set; }
+        public long DateTS { get; set; }  // Timestamp
         public int Origin { get; set; }
         public int ResultAction { get; set; }
-        public double? Value { get; set; }
+        public LogDataDetails Data { get; set; }
     }
 }

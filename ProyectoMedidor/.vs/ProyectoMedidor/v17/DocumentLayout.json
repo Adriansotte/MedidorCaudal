@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\models\\counterdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:models\\counterdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\models\\counterdataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:models\\counterdataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\models\\flowdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:models\\flowdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\models\\logdatadetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:models\\logdatadetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\models\\logdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:models\\logdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\models\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,38 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\models\\auth\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:models\\auth\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\models\\datapoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:models\\datapoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\models\\flowdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:models\\flowdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\models\\counterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:models\\counterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|c:\\users\\adric\\documents\\dev\\github\\pruebas t\u00E9cnicas\\medidorcaudal\\proyectomedidor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26604FF7-6265-430F-A2B5-3C8F244C12B3}|ProyectoMedidor.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,115 +74,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RefreshToken.cs",
-              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\Auth\\RefreshToken.cs",
-              "RelativeDocumentMoniker": "Models\\Auth\\RefreshToken.cs",
-              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\Auth\\RefreshToken.cs",
-              "RelativeToolTip": "Models\\Auth\\RefreshToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T20:36:55.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccessToken.cs",
-              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\Auth\\AccessToken.cs",
-              "RelativeDocumentMoniker": "Models\\Auth\\AccessToken.cs",
-              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\Auth\\AccessToken.cs",
-              "RelativeToolTip": "Models\\Auth\\AccessToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T20:36:42.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TokenResponse.cs",
-              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\Auth\\TokenResponse.cs",
-              "RelativeDocumentMoniker": "Models\\Auth\\TokenResponse.cs",
-              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\Auth\\TokenResponse.cs",
-              "RelativeToolTip": "Models\\Auth\\TokenResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T20:36:16.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "IApiService.cs",
               "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Services\\IApiService.cs",
               "RelativeDocumentMoniker": "Services\\IApiService.cs",
               "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Services\\IApiService.cs",
               "RelativeToolTip": "Services\\IApiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T20:23:49.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CounterData.cs",
-              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\CounterData.cs",
-              "RelativeDocumentMoniker": "Models\\CounterData.cs",
-              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\CounterData.cs",
-              "RelativeToolTip": "Models\\CounterData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T20:10:47.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TokenResponse.cs",
-              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\TokenResponse.cs",
-              "RelativeDocumentMoniker": "Models\\TokenResponse.cs",
-              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\TokenResponse.cs",
-              "RelativeToolTip": "Models\\TokenResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T20:07:42.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ApiService.cs",
               "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Services\\ApiService.cs",
               "RelativeDocumentMoniker": "Services\\ApiService.cs",
               "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Services\\ApiService.cs",
               "RelativeToolTip": "Services\\ApiService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswD4AAAAIBAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T20:05:10.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T19:03:22.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T19:09:15.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CounterDataResponse.cs",
+              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\CounterDataResponse.cs",
+              "RelativeDocumentMoniker": "Models\\CounterDataResponse.cs",
+              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\CounterDataResponse.cs",
+              "RelativeToolTip": "Models\\CounterDataResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:10:47.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CounterDataViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\CounterDataViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CounterDataViewModel.cs",
+              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\CounterDataViewModel.cs",
+              "RelativeToolTip": "Models\\CounterDataViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:11:49.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FlowData.cs",
               "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\FlowData.cs",
               "RelativeDocumentMoniker": "Models\\FlowData.cs",
@@ -190,43 +168,52 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogDataDetails.cs",
+              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\LogDataDetails.cs",
+              "RelativeDocumentMoniker": "Models\\LogDataDetails.cs",
+              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\LogDataDetails.cs",
+              "RelativeToolTip": "Models\\LogDataDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:52:58.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-21T19:11:42.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:04:22.665Z",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T19:09:55.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LogEntry.cs",
-              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\LogEntry.cs",
-              "RelativeDocumentMoniker": "Models\\LogEntry.cs",
-              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\LogEntry.cs",
-              "RelativeToolTip": "Models\\LogEntry.cs",
+              "DocumentIndex": 8,
+              "Title": "LogData.cs",
+              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\LogData.cs",
+              "RelativeDocumentMoniker": "Models\\LogData.cs",
+              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\LogData.cs",
+              "RelativeToolTip": "Models\\LogData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T20:11:29.922Z",
@@ -234,42 +221,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DataPoint.cs",
-              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\DataPoint.cs",
-              "RelativeDocumentMoniker": "Models\\DataPoint.cs",
-              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\DataPoint.cs",
-              "RelativeToolTip": "Models\\DataPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T20:11:49.154Z",
+              "WhenOpened": "2024-11-21T19:04:22.665Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "Models\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\TokenResponse.cs",
+              "RelativeToolTip": "Models\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:07:42.45Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T19:09:55.571Z",
-              "EditorCaption": ""
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\Auth\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\Auth\\TokenResponse.cs",
+              "RelativeToolTip": "Models\\Auth\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:36:16.667Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T19:09:15.896Z",
-              "EditorCaption": ""
+              "Title": "AccessToken.cs",
+              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\Auth\\AccessToken.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\AccessToken.cs",
+              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\Auth\\AccessToken.cs",
+              "RelativeToolTip": "Models\\Auth\\AccessToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:36:42.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\Auth\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\adric\\Documents\\Dev\\GitHub\\Pruebas T\u00E9cnicas\\MedidorCaudal\\ProyectoMedidor\\Models\\Auth\\RefreshToken.cs",
+              "RelativeToolTip": "Models\\Auth\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:36:55.544Z"
             }
           ]
         }

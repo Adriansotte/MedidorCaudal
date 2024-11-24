@@ -4,7 +4,7 @@ namespace ProyectoMedidor.Models
 {
     public class FlowData
     {
-        public List<LogEntry> Logs { get; set; }
-        public List<DataPoint> Data { get; set; }
+        public DateTime Time { get; set; }
+        public double Value { get; set; }
     }
 }
